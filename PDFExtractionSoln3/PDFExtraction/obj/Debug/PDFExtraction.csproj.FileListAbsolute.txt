@@ -1,0 +1,31 @@
+C:\Projects\PDFExtraction\PDFExtraction\bin\Debug\PDFExtraction.exe.config
+C:\Projects\PDFExtraction\PDFExtraction\bin\Debug\PDFExtraction.exe
+C:\Projects\PDFExtraction\PDFExtraction\bin\Debug\PDFExtraction.pdb
+C:\Projects\PDFExtraction\PDFExtraction\bin\Debug\itextsharp.xml
+C:\Projects\PDFExtraction\PDFExtraction\obj\Debug\PDFExtraction.csprojResolveAssemblyReference.cache
+C:\Projects\PDFExtraction\PDFExtraction\obj\Debug\PDFExtraction.csproj.ResolveComReference.cache
+C:\Projects\PDFExtraction\PDFExtraction\obj\Debug\PDFExtraction.Form1.resources
+C:\Projects\PDFExtraction\PDFExtraction\obj\Debug\PDFExtraction.Properties.Resources.resources
+C:\Projects\PDFExtraction\PDFExtraction\obj\Debug\PDFExtraction.csproj.GenerateResource.Cache
+C:\Projects\PDFExtraction\PDFExtraction\obj\Debug\PDFExtraction.exe
+C:\Projects\PDFExtraction\PDFExtraction\obj\Debug\PDFExtraction.pdb
+C:\Projects\PDFExtraction - Copy\PDFExtraction\bin\Debug\PDFExtraction.exe.config
+C:\Projects\PDFExtraction - Copy\PDFExtraction\bin\Debug\PDFExtraction.exe
+C:\Projects\PDFExtraction - Copy\PDFExtraction\bin\Debug\PDFExtraction.pdb
+C:\Projects\PDFExtraction - Copy\PDFExtraction\obj\Debug\PDFExtraction.csproj.ResolveComReference.cache
+C:\Projects\PDFExtraction - Copy\PDFExtraction\obj\Debug\PDFExtraction.Form1.resources
+C:\Projects\PDFExtraction - Copy\PDFExtraction\obj\Debug\PDFExtraction.Properties.Resources.resources
+C:\Projects\PDFExtraction - Copy\PDFExtraction\obj\Debug\PDFExtraction.csproj.GenerateResource.Cache
+C:\Projects\PDFExtraction - Copy\PDFExtraction\obj\Debug\PDFExtraction.exe
+C:\Projects\PDFExtraction - Copy\PDFExtraction\obj\Debug\PDFExtraction.pdb
+C:\Projects\PDFExtraction - Copy\PDFExtraction\obj\Debug\PDFExtraction.csprojResolveAssemblyReference.cache
+C:\Projects\PDFExtractionSoln3\PDFExtraction\bin\Debug\PDFExtraction.exe.config
+C:\Projects\PDFExtractionSoln3\PDFExtraction\obj\Debug\PDFExtraction.csproj.ResolveComReference.cache
+C:\Projects\PDFExtractionSoln3\PDFExtraction\obj\Debug\PDFExtraction.exe
+C:\Projects\PDFExtractionSoln3\PDFExtraction\obj\Debug\PDFExtraction.pdb
+C:\Projects\PDFExtractionSoln3\PDFExtraction\bin\Debug\PDFExtraction.exe
+C:\Projects\PDFExtractionSoln3\PDFExtraction\bin\Debug\PDFExtraction.pdb
+C:\Projects\PDFExtractionSoln3\PDFExtraction\obj\Debug\PDFExtraction.csprojResolveAssemblyReference.cache
+C:\Projects\PDFExtractionSoln3\PDFExtraction\obj\Debug\PDFExtraction.Form1.resources
+C:\Projects\PDFExtractionSoln3\PDFExtraction\obj\Debug\PDFExtraction.Properties.Resources.resources
+C:\Projects\PDFExtractionSoln3\PDFExtraction\obj\Debug\PDFExtraction.csproj.GenerateResource.Cache
